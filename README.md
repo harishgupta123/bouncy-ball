@@ -1,2 +1,2 @@
-# bouncy-ball
-check the code🤷‍♀️
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
